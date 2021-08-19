@@ -1,0 +1,20 @@
+[
+    {
+        "image":1,
+        "title": "Hand gesture controlled servo",
+        "author": "Aryan Kurkure",
+        "created_on": "24th July, 2021",
+        "description": "This is a amazing project wherein the arduino reads the hand gestures by sensors and works accordingly",
+        "story": "I thought of making this project by seeing some of the movies in which machines learn and try to mimic human behavior , I thought that I could try making one such brilliant project by arduino as it makes everything possible , and this project is also example of weak AI . In this project I have used tilt sensors which I have attached them to my hands using tape , which first detects in which direction the tilt is done and by got info the arduino has been programmed such that it converts the data got from sensors to hand gestures and accordingly the servo rotates accordingly and its really amazing to see how by just moving my hands arduino is truing to mimic my hand's gesture and output is through servo motor .",
+        "uses": "this project can not only be used for controlling servo but also demonstrates how a machine can mimic human behavior and actions ."
+    },
+    {
+        "image":2,
+        "title": "Digital clock with ultimate graphics",
+        "author": "Ojjas Shinde",
+        "created_on": "19th June 2021",
+        "description": "The project is all about display , in this project I have added very awesome clock on a digital screen with really beautiful graphics",
+        "story":"This project is all about some expermentation with tft lcd screen , I thought that I would upgrade my previous made digital clock by using tft lcd screen's pros ; such as good vibrant color's and various shapes , images and alphanumeric characters can be displayed on the screen . I thought that this will be perfect for my projects as it provided all necessary requirements . Some of the thing which are displayed on tft display are circles and colors are used are yellow , white , black , mediumblue etc. I have used logic of about of 30-40 lines display time once set manually as we are not using RTC module (Real time chip) due to which we need to add our own logic in this project but its really cool to do so as the project is really mindblowing and graphics displayed by using some simple shapes like rectangle , triangle , square and most importantly circles drawn over background , if black then white or yellow or black on white",
+        "uses": "This project if understood and done by yourself can help in understanding how is graphics and text actually displayed on screens of tabs , phones etc."
+    }
+]
